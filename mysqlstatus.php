@@ -8,9 +8,9 @@
 <body>
 
 <div class="navbar">
-  <a href="index.php">Home</a>
-  <a href="mysqlstatus.php">MySQL Status</a>
-  <a href="phpinfo.php">PHP Info</a>
+  <a href="/index.php">Home</a>
+  <a href="/mysqlstatus.php">MySQL Status</a>
+  <a href="/phpinfo.php">PHP Info</a>
   <a href="/phpmyadmin">phpMyAdmin</a>
 </div>
 

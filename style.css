@@ -3,6 +3,7 @@ body {
   background-color: #151515;
   color: #f2f2f2;
 }
+
 .navbar {
   display: flex;
   overflow: hidden;
@@ -13,7 +14,6 @@ body {
   top: 0;
   width: 100%;
 }
-
 .navbar a {
   float: left;
   display: flex;
@@ -31,7 +31,8 @@ body {
 .main {
   padding: 32px;
   margin-top: 20px;
-  
+  display: flex;
+  flex-direction: column;
 }
 
 .projectlist {
