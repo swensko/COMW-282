@@ -14,7 +14,7 @@
 </div>
 
 <div class="main">
-  <h1>PHP Project Directory</h1>
+  <h1>COMW-282 Dynamic Web</h1>
   <div class="projectlist">
     <a href="project1">Project 1: A Description of Project 1</a><br/>
     <a href="project1">Project 1: A Description of Project 1</a><br/>

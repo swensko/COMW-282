@@ -20,7 +20,7 @@
     <?php
 
         ob_start () ;
-        phpinfo (INFO_GENERAL) ;
+        phpinfo () ;
         $pinfo = ob_get_contents () ;
         ob_end_clean () ;
 
