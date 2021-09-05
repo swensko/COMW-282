@@ -1,0 +1,51 @@
+body {
+  margin:0;
+  background-color: #151515;
+  color: #f2f2f2;
+}
+.navbar {
+  display: flex;
+  overflow: hidden;
+  justify-content: left;
+  align-items: center;
+  background-color: #252525;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background: #f2f2f2;
+  color: #252525;
+}
+
+.main {
+  padding: 32px;
+  margin-top: 20px;
+  
+}
+
+.projectlist {
+  list-style-type: none;
+}
+.projectlist a:hover{
+  background: #f2f2f2;
+  color: #252525;
+}
+.projectlist a{
+  color: #f2f2f2;
+  text-decoration: none;
+}
+.projectlist a:visited{
+  color: #777;
+  text-decoration: none;
+}
