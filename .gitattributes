@@ -1,1 +1,2 @@
 *.php linguist-language=PHP
+js/bootstrap.bundle.min.js -linguist-vendored
