@@ -1,4 +1,7 @@
-<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/header.php') ?>
+<?php 
+    $title='PHP Info';
+    require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/header.php'); 
+?>
 
     <!-- Begin page content -->
     <main class="flex-shrink-0">
@@ -23,4 +26,4 @@
       </div>
     </main>
     
-<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/footer.php')?>
+<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/footer.php'); ?>

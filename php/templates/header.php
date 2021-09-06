@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>COMW-282 Home</title>
+    <title><?php echo($title) ?></title>
 
     <!-- Bootstrap CSS and Theme -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">

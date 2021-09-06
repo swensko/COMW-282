@@ -1,4 +1,7 @@
-<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/header.php') ?>
+<?php 
+    $title='404: Not Found';
+    require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/header.php'); 
+?>
 
 <!-- Begin page content -->
 <main class="flex-shrink-0">
@@ -7,4 +10,4 @@
     <p>The resource does not exist. Double check the URL.</p>
 </main>
 
-<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/footer.php')?>
+<?php require($_SERVER["DOCUMENT_ROOT"] . '/php/templates/footer.php'); ?>
