@@ -24,10 +24,6 @@
         <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
         <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
         <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
-        <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
-        <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
-        <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
-        <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
     </ul>
     </div>
 </main>

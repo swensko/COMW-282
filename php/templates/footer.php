@@ -1,5 +1,5 @@
 
-    <footer class="footer mt-auto py-auto text-center">
+    <footer class="footer mt-auto pb-2 py-auto text-center">
       <hr/>
       <div class="container">
         <span class="lead">This site was created for educational purposes only.</span>
