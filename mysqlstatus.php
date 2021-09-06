@@ -18,8 +18,9 @@
           exit;
         }
 
-        echo mysqli_stat($con);
-
+        echo('<p>' . mysqli_stat($con) . '</p>');
+        echo('<p>Server Version: ' . mysqli_get_server_info($con) . '</p>'); 
+        echo('<p>Client library version: ' . mysqli_get_client_info($con) . '</p>'); 
         mysqli_close($con);
       ?>
     </p>
