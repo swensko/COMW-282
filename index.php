@@ -25,7 +25,7 @@
         <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
         <li><a href="/assignments/project1/">Project 1: A Description of Project 1</a><br/></li>
     </ul>
-    <p>This website is available as a <a href="https://github.com/swensko/COMW-282">git repo</a>.</p>
+    <p>The source files for this website are available in a <a href="https://github.com/swensko/COMW-282"><i class="fab fa-github"></i> git repo</a>.</p>
     </div>
 </main>
 
